@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/diliup-gabadamudalige-%e2%99%aa%e2%88%9a-93870489/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diliup-gabadamudalige-%e2%99%aa%e2%88%9a-93870489/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5727972/emorphus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5727972/emorphus" height="30" width="40" /></a>
 <a href="https://instagram.com/diliupg/channel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diliupg/channel/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/diliup gabadamudalige" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="diliup gabadamudalige" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucjnllcswzofubstabwj5umw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjnllcswzofubstabwj5umw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
