@@ -18,7 +18,7 @@
 <a href="https://stackoverflow.com/users/5727972/emorphus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5727972/emorphus" height="30" width="40" /></a>
 <a href="https://fb.com/diliupg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diliupg" height="30" width="40" /></a>
 <a href="https://instagram.com/diliupg/channel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diliupg/channel/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucjnllcswzofubstabwj5umw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjnllcswzofubstabwj5umw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/channel/ucjnllcswzofubstabwj5umw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucjnllcswzofubstabwj5umw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
