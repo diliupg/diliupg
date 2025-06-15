@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diliupg" alt="diliupg" /></a> </p>
 
-- 🌱 I’m currently learning **Unreal Engine, C++**
+- 🌱 I’m currently developing an FPS game using **Unreal Engine, C++**
 
 - 📫 How to reach me **diliupg@gmail.com**
 
